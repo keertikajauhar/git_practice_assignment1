@@ -1,8 +1,8 @@
- if(one%2===0 && two%2===0){
+if(one%2===0 && two%2===0){
         console.log("Even");
     }
     else if(one%2!==0 && two%2!==0){
-        console.log("Even");
+        console.log("Odd");
     }
     else{
         console.log("Even-Odd");
